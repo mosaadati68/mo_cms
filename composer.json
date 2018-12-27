@@ -1,0 +1,19 @@
+{
+    "name": "roocket/cms",
+    "description": "Roocket Cms for Roocket.ir Cource",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Morteza Saadati",
+            "email": "mo.saadati68@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Roocket\\": "src/"
+        }
+    },
+    "require": {
+        "Illuminate/Support" : "~5"
+    }
+}
